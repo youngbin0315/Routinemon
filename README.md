@@ -12,6 +12,11 @@
 * **주요 기술**: Android CameraX, Google ML Kit Object Labeling, 아키텍처 패턴 (UI/데이터 분리)
 
 ---
+## 실행영상 
+https://youtu.be/aK3XMZjJ8gk
+
+
+
 
 ## 핵심 기능
 
