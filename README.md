@@ -6,6 +6,7 @@
 ---
 
 ## 프로젝트 소개
+* **팀원 소개**: 2022145042 설영빈, 2024145060 신재은
 * **개발 기간**: 2026.05 ~ 2026.06 (약 1개월)
 * **개발 환경**: Android Studio (Java)
 * **주요 기술**: Android CameraX, Google ML Kit Object Labeling, 아키텍처 패턴 (UI/데이터 분리)
