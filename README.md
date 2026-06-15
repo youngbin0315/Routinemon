@@ -42,9 +42,7 @@
 
 | 메인 화면 & 투두리스트 | AI 카메라 실시간 인증 |
 | :---: | :---: |
-| <img src="[<img width="360" height="743" alt="image" src="https://github.com/user-attachments/assets/95609cf3-7ae9-4232-943f-f5712d84b3bd" />
-]" width="300"/> | <img src="[<img width="363" height="745" alt="image" src="https://github.com/user-attachments/assets/9d5bef68-443e-4174-89d4-4226271769e2" />
-]" width="300"/> |
+| <img width="360" height="743" alt="image" src="https://github.com/user-attachments/assets/95609cf3-7ae9-4232-943f-f5712d84b3bd" /> | <img width="363" height="745" alt="image" src="https://github.com/user-attachments/assets/9d5bef68-443e-4174-89d4-4226271769e2" />
 | 사용자의 당일 루틴 리스트 확인 | AI 단어 스캔 및 실시간 통과 판독 |
 
 ---
